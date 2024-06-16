@@ -1,3 +1,1 @@
-Testando
-
-Arquivo de testes
+REDEME DO PROJETO
